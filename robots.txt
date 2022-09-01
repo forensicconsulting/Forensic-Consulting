@@ -1,9 +1,0 @@
-<head>
-<meta name="robots" content="noindex">
-User-agent: *
-Disallow: 
-Disallow: /cgi-bin/
-URL: https://forensic-consulting.eu/
-Sitemap: https://forensic-consulting.eu/sitemap.xml
-</meta>
-</head>
